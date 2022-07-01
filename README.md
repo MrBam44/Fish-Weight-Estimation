@@ -1,0 +1,2 @@
+# Fish-Weight-Estimation
+Fish Weight Estimation Introduction A fish market is a marketplace for selling fish and fish products. It can be dedicated to wholesale trade between fishermen and fish merchants, or to the sale of seafood to individual consumers, or to both. Retail fish markets, a type of wet market, often sell street food as well  Our Aim is to estimate fish weight on the basis of some measurement of fish body structure
